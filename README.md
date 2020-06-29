@@ -5,3 +5,5 @@ After downloading this project and installing it on the server side, you can cha
 
 
 Link to the android application codes of the project: https://github.com/mustafasisik/SecurityCamApplication
+Link to the server code of the project: https://github.com/mustafasisik/SecurityCamServer
+link of arduino codes of the project: https://github.com/mustafasisik/SecurityCamArduino
